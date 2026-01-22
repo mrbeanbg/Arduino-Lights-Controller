@@ -1,4 +1,4 @@
-# Automated Lamp Timer Clock
+# Automated Lamp Timer Clock / Lights Controller
 
 An Arduino based clock with an automated lamp scheduling system, featuring an LCD display and a menu driven interface for configuration.
 
