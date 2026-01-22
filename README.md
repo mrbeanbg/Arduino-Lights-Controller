@@ -2,9 +2,13 @@
 
 An Arduino based clock with an automated lamp scheduling system, featuring an LCD display and a menu driven interface for configuration.
 
+## Demo
+
+Watch the project in action: [YouTube Video - Bulgarian Language Version]([https://youtube.com/your-link-here](https://youtu.be/G4d7RdLddWY))
+
 ## Purpose
 
-This project was created to automate lamp control based on a daily schedule. It is ideal for situations where you want lights to turn on and off automatically at specific times, such as for plant grow lights, aquarium lighting, home automation, or simply as a programmable night light.
+This project was created to automate lamp control based on a daily schedule. It is ideal for situations where you want lights to turn on and off automatically at specific times.
 
 The device displays the current date and time when idle and allows users to configure the lamp schedule through an intuitive menu system controlled by buttons.
 
