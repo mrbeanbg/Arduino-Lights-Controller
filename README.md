@@ -16,7 +16,7 @@ The device displays the current date and time when idle and allows users to conf
 | **DS1302 RTC Module** | Provides accurate timekeeping even when the Arduino is powered off (battery backed). Essential for reliable scheduling since the Arduino internal clock resets on power loss. |
 | **16x2 I2C LCD Display** | Displays the current time and menu interface. The I2C version was chosen to minimize wiring (only 2 data pins instead of 6+), freeing up GPIO pins for buttons. |
 | **4 Push Buttons** | Provide navigation through the menu system (Up, Down, Left, Right) to configure settings without needing a computer connection. |
-| **Relay or LED on Pin 13** | Controls the lamp. Pin 13 was chosen for easy testing with the built in LED. In production, this would connect to a relay module for switching AC lamps. |
+| **LED on Pin 13** | Controls the lamp. Pin 13 was chosen for easy testing with the built in LED. In production, this could be changed to external lights. |
 
 ## Features
 
