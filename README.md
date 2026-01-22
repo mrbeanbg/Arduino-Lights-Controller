@@ -4,7 +4,7 @@ An Arduino based clock with an automated lamp scheduling system, featuring an LC
 
 ## Demo
 
-Watch the project in action: [YouTube Video - Bulgarian Language Version]([https://youtube.com/your-link-here](https://youtu.be/G4d7RdLddWY))
+Watch the project in action: [YouTube Video - Bulgarian Language Version](https://youtube.com/your-link-here](https://youtu.be/G4d7RdLddWY)
 
 ## Purpose
 
