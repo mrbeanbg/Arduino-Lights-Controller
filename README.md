@@ -59,9 +59,9 @@ The device displays the current date and time when idle and allows users to conf
 |---------|-------------|
 | VCC     | 5V          |
 | GND     | GND         |
-| IO      | 4           |
-| SCLK    | 5           |
-| CE      | 2           |
+| IO      | D4           |
+| SCLK    | D5           |
+| CE      | D2           |
 
 ### Push Buttons
 
@@ -69,16 +69,16 @@ All buttons are configured with internal pullup resistors. Connect one side of e
 
 | Button   | Arduino Pin | Function                    |
 |----------|-------------|-----------------------------|
-| Left     | 8           | Navigate left / Decrease value |
-| Right    | 9           | Navigate right / Increase value |
-| Up       | 10          | Go back / Exit menu         |
-| Down     | 11          | Enter submenu / Confirm     |
+| Left     | D8           | Navigate left / Decrease value |
+| Right    | D9           | Navigate right / Increase value |
+| Up       | D10          | Go back / Exit menu         |
+| Down     | D11          | Enter submenu / Confirm     |
 
 ### Lamp Output
 
 | Output   | Arduino Pin |
 |----------|-------------|
-| Lamp/Relay | 13        |
+| Lamp/Relay | D13        |
 
 > **Note:** For controlling AC lamps, use a relay module between pin 13 and the lamp. Never connect AC voltage directly to the Arduino.
 
